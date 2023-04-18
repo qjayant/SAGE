@@ -1,3 +1,11 @@
+
+# project made by 
+# Hari Chandan Naidu -102117145
+# Jayant Garg        -102117156
+# Aryan Tyagi        -102117184
+
+
+
 import openai
 from apikey import api_data
 import pyttsx3
@@ -6,6 +14,9 @@ import webbrowser
 import datetime
 import wikipedia
 import os
+
+
+
 
 openai.api_key = api_data
 
