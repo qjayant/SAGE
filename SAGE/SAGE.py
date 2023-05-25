@@ -1,9 +1,6 @@
 
 # project made by 
-# Hari Chandan Naidu -102117145
-# Jayant Garg        -102117156
-# Aryan Tyagi        -102117184
-
+# Jayant Garg
 
 
 import openai
